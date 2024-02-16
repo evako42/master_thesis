@@ -1,5 +1,8 @@
 # Assessing the Reliability of Transcranial Magnetic Stimulation Mapping Using the Pseudorandom Walk Method in the Brachioradialis and the First Dorsal Interosseous Muscles
 
+The scripts provided are relevant for a transcranial magnetic stimulation (TMS) study and can aid in the preprocessing and analysis of the electromyography (EMG) signal.
+
+***
 
 **Background**: Transcranial magnetic stimulation mapping of the muscle cortical representations is a valuable tool in clinic and research to measure changes in cortical representations. A common practice to obtain motor maps is to perform the grid mapping technique that is time-consuming and strenuous for patients. Recently, a much faster method, the pseudorandom walk method, has been developed that shows equal reliability compared to grid mapping. However, the reliability has been mainly investigated for hand muscles.
 
