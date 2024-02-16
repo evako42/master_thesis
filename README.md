@@ -1,4 +1,5 @@
-# master_thesis
+# Assessing the Reliability of Transcranial Magnetic Stimulation Mapping Using the Pseudorandom Walk Method in the Brachioradialis and the First Dorsal Interosseous Muscles
+
 
 **Background**: Transcranial magnetic stimulation mapping of the muscle cortical representations is a valuable tool in clinic and research to measure changes in cortical representations. A common practice to obtain motor maps is to perform the grid mapping technique that is time-consuming and strenuous for patients. Recently, a much faster method, the pseudorandom walk method, has been developed that shows equal reliability compared to grid mapping. However, the reliability has been mainly investigated for hand muscles.
 
@@ -10,3 +11,6 @@
 
 **Conclusions**: This study extends the reliability of the pseudorandom walk method to the proximal Brachioradialis muscle and brings this technique one step closer to being used in the clinic where patients would benefit greatly. 
 
+The scripts can be used to load data and generate plots like the following:
+
+![Brain representaiton of the muscle area](https://raw.githubusercontent.com/evako42/master_thesis/main/BR_2D_corrected.jpg)
