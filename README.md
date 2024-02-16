@@ -11,6 +11,19 @@
 
 **Conclusions**: This study extends the reliability of the pseudorandom walk method to the proximal Brachioradialis muscle and brings this technique one step closer to being used in the clinic where patients would benefit greatly. 
 
-The scripts can be used to load data and generate plots like the following:
+![Experimental setup](https://raw.githubusercontent.com/evako42/master_thesis/main/Experimental_steps.png "Experimental setup")
 
-![Brain representaiton of the muscle area](https://raw.githubusercontent.com/evako42/master_thesis/main/BR_2D_corrected.jpg)
+A) Upper panel: start of the pseudorandom walk method. The experimenter is receiving real-time feedback of the color-coded responses (yellow = max; blue = min). The first 50 pulses are applied in 8 straight lines outward from the hotspot until two consecutive stimuli show no response. The remaining pulses are used to connect the borders of the lines and then pseudorandomly applied within the ellipsoid. Lower panel: end of the pseudorandom walk method. A general trend is observed with higher responses concentrated around the hotspot gradually decreasing towards the borders with zero responses at the borders. 
+
+B) EMG signal of the FDI muscle with the baseline activity until 0.1s, the stimulation pulse at 0.1s, and the motor evoked potentials (MEPs) peak time window between 0.115s and 0.15s. EMG responses from all 150 pulses are shown. 
+
+C) The coordinates on a plane are shifted and rotated. The MEPs are represented as z-values at their corresponding coordinates and represent the volume of the motor map. The responses are color-coded (yellow = max; blue = min).
+
+***
+
+Daily supervisor: Carolin Gaiser;
+Tutors: Prof. Dr. Maarten A. Frens & Prof. Dr. Jos N. van der Geest
+
+
+
+
